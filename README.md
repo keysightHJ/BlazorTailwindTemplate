@@ -2,7 +2,7 @@
 
 View on [Nuget.org](https://www.nuget.org/packages/PracticalDotNet.TailwindStarterProject/).
 
-## Install template via nuget
+## Install template via nuget jlr
 
 From anywhere on your machine you can use this command to install the template directly from Nuget.
 
